@@ -87,12 +87,12 @@ class _TabBoxState extends State<TabBox> {
                     ),
                     BottomNavyBarItem(
                       icon: SvgPicture.asset(
-                        EditorIcons.formatLineSpacing,
+                        ActionIcons.infoOutline,
                         color: MyColors.primary,
                         height: 24.h,
                       ),
                       title: Text(
-                        tr("history_screen.history"),
+                        tr("Ma'lumot"),
                       ),
                       activeColor: MyColors.primary,
                       textAlign: TextAlign.center,
