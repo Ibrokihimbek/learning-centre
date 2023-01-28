@@ -9,6 +9,7 @@ import 'package:obod_shahar/utils/color.dart';
 import 'package:obod_shahar/utils/custom_packages/bottom_navy_bar.dart';
 import 'package:obod_shahar/utils/icons/action/action.dart';
 import 'package:obod_shahar/utils/icons/editor/editor.dart';
+import 'package:obod_shahar/utils/icons/file/file.dart';
 import 'package:obod_shahar/utils/icons/notification/notification.dart';
 import 'package:obod_shahar/utils/icons/social/social.dart';
 
@@ -76,11 +77,11 @@ class _TabBoxState extends State<TabBox> {
                     ),
                     BottomNavyBarItem(
                       icon: SvgPicture.asset(
-                        NotificationIcons.eventNote,
+                        FileIcons.cloudUpload,
                         color: MyColors.primary,
                         height: 24.h,
                       ),
-                      title: Text(tr('others.appointment')),
+                      title: Text(tr('Yuklash')),
                       activeColor: MyColors.primary,
                       textAlign: TextAlign.center,
                     ),
