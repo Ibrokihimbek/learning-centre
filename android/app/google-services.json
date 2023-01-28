@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "828660084818",
+    "project_id": "obod-shahar",
+    "storage_bucket": "obod-shahar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828660084818:android:b83a7c91c743281d9baf8b",
+        "android_client_info": {
+          "package_name": "com.davronbekov.obod_shahar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828660084818-fe8ngeo33pjeidsqhn628capjasqnj51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8UjtuRmd7N8fDxh4wid3EimT6sHYhcUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828660084818-fe8ngeo33pjeidsqhn628capjasqnj51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
