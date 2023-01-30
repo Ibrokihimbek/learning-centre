@@ -1,4 +1,4 @@
-package com.davronbekov.obod_shahar
+package uz.davronbekov.learning_centre
 
 import io.flutter.embedding.android.FlutterActivity
 

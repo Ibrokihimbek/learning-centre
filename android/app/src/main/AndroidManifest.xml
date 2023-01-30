@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.davronbekov.obod_shahar">
+    package="uz.davronbekov.learning_centre">
    <application
         android:label="obod_shahar"
         android:name="${applicationName}"
